@@ -20,7 +20,7 @@
 
 <img src="./assets/badge.png" title="Badge" width="70" height="70">
 
-Curso do Bootcamp Avanade Full-stack Developer da [Digital Innovation One](https://digitalinnovation.one/).
+Curso do Bootcamp .NET Fundamentals da [Digital Innovation One](https://digitalinnovation.one/).
 
 Aprenda como criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
 
