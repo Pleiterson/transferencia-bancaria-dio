@@ -1,0 +1,16 @@
+D:\dev\repos\transferencia-bancaria-dio\bin\Debug\net5.0\transferencia-bancaria-dio.exe
+D:\dev\repos\transferencia-bancaria-dio\bin\Debug\net5.0\transferencia-bancaria-dio.deps.json
+D:\dev\repos\transferencia-bancaria-dio\bin\Debug\net5.0\transferencia-bancaria-dio.runtimeconfig.json
+D:\dev\repos\transferencia-bancaria-dio\bin\Debug\net5.0\transferencia-bancaria-dio.runtimeconfig.dev.json
+D:\dev\repos\transferencia-bancaria-dio\bin\Debug\net5.0\transferencia-bancaria-dio.dll
+D:\dev\repos\transferencia-bancaria-dio\bin\Debug\net5.0\ref\transferencia-bancaria-dio.dll
+D:\dev\repos\transferencia-bancaria-dio\bin\Debug\net5.0\transferencia-bancaria-dio.pdb
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.csprojAssemblyReference.cache
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.AssemblyInfoInputs.cache
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.AssemblyInfo.cs
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.csproj.CoreCompileInputs.cache
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.dll
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\ref\transferencia-bancaria-dio.dll
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.pdb
+D:\dev\repos\transferencia-bancaria-dio\obj\Debug\net5.0\transferencia-bancaria-dio.genruntimeconfig.cache

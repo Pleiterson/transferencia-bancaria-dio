@@ -14,8 +14,10 @@
             "args": [],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
-            "stopAtEntry": false
+            // "console": "internalConsole",
+            "console": "externalTerminal",
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
         },
         {
             "name": ".NET Core Attach",
